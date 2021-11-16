@@ -14,5 +14,7 @@ package org.housemind.interfaces;
  */
 public class HardwareInterface  {
     
-    
+    public String getName(){
+        return "";
+    }
 }
